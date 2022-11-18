@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aditya454545
+- 👋 Hi, I’m @Aditya-kumar45
 - 👀 I’m interested in making digital poster 
 - 🌱 I’m currently learning computer science and engineering
 - 💞️ I’m looking to collaborate on open source
